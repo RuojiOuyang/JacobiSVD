@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp   CMakeFiles/Demo.dir/demo.cpp.o CMakeFiles/Demo.dir/Matrix/Matrix.cpp.o CMakeFiles/Demo.dir/Serial/Serial.cpp.o CMakeFiles/Demo.dir/Parallel/Parallel.cpp.o CMakeFiles/Demo.dir/BlockParallel/BlockParallel.cpp.o  -o Demo 
