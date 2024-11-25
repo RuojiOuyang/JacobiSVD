@@ -3,7 +3,7 @@
 
 clear; close all; clc;
 
-addpath('JacobiSVD\');
+addpath('func\');
 
 % set ill_conditional matrix
 A = [1e40, 1e29, 1e19; 1e29, 1e20, 1e9; 1e19, 1e9, 1];
