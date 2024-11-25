@@ -4,7 +4,7 @@
 
 clear; close all; clc;
 
-addpath('JacobiSVD\');
+addpath('func');
 
 % Initialize
 nlen = 20;
